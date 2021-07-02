@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+body {
+  margin: 1rem;
+}
+.heading {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
